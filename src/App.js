@@ -16,7 +16,8 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <Food bgImg={Craft1} bgImg2={Craft2} />
+      <Food bgImg={Craft1} />
+      <Food bgImg={Craft2} />
       <Food bgImg={Chicken} />
       <Food bgImg={Burger} />
       <Food bgImg={HeroBg} />
